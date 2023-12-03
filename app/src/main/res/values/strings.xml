@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MatthewKeicherXMLColorMe</string>
+    <string name="red_button">Red</string>
+    <string name="green_button">Green</string>
+    <string name="blue_button">Blue</string>
+</resources>
